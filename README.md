@@ -4,7 +4,7 @@
 
 pm uninstall -k --user 0 com.package.name
 
-#### list of unwanted applications
+#### list of unwanted applications ####
 <code>
   /* meta */
   pm uninstall -k --user 0 com.facebook.system
