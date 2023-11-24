@@ -1,4 +1,5 @@
-# Realme 10 gt2pro remove bloatware
+# Realme 10 gt2pro
+## Remove bloatware
 
 Syntaxe:
 ```
